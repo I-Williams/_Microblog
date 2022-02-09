@@ -16,4 +16,4 @@ https://micro-blogs.herokuapp.com/
 ![screenshot-micro-blogs herokuapp com-2022 02 07-14_35_28](https://user-images.githubusercontent.com/57849511/152868116-bf003812-9616-4d19-8d45-439d4d8274a0.png)
 
 ### Author
-I Williams
+Iyanu Williams
