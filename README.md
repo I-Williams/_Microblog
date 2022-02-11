@@ -7,7 +7,7 @@ https://micro-blogs.herokuapp.com/
 ### Features
 
 #### Login
-![project_02](https://user-images.githubusercontent.com/57849511/152652124-ff3400fe-7ebf-4e42-98c1-17a20435ce80.png)
+![project_02](https://user-images.githubusercontent.com/57849511/153528392-40d69589-6dad-4e40-b417-08c705290932.png)
 
 #### Profile Page
 ![FireShot Capture 001 - Microblog - micro-blogs herokuapp com](https://user-images.githubusercontent.com/57849511/152867976-955b9573-117f-47e0-a184-17a3760b19e8.png)
