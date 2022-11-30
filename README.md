@@ -2,7 +2,7 @@
 ## Intro
 A social media site made using Python, Django, SQLite3, HTML, CSS, Bootstrap and JavaScript.
 ## URL
-https://micro-blogs.herokuapp.com/
+https://microblog-wckc.onrender.com/
 ## Preview
 ### Features
 
